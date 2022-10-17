@@ -20,13 +20,13 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago      | 	Various Junior Developer Positions |
 | [~~Disney~~](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Software-Engineer-I_10021078) | Burbank, CA | Software Engineer I |
 | [~~VMware~~](https://careers.vmware.com/main/jobs/R2212905?lang=en-us) | Palo Alto, California; Atlanta, Georgia  | Launch New Grad SWE |
-| [IMC](https://imc.wd5.myworkdayjobs.com/invitation/job/Chicago/Graduate-Software-Engineer_REQ-01946#utm_source=peoplepath) | Chicago  | Graduate Software Engineer |
+| [~~IMC~~](https://imc.wd5.myworkdayjobs.com/invitation/job/Chicago/Graduate-Software-Engineer_REQ-01946#utm_source=peoplepath) | Chicago  | Graduate Software Engineer |
 | [Palantir](https://jobs.lever.co/palantir/c34b424e-caf2-455a-b104-ae1096ccca29) | Denver, CO | Software Engineer, New Grad |
 | [Sofi](https://www.sofi.com/careers/intern/?gh_jid=5255634003) | Murrah, UT | New Grad, Platform Infrastructure Engineer (Oct. 2022 Start)|
 | [Egen Solutions](https://jobs.lever.co/egensolutions/b8241d47-ab6c-456c-823d-1a6bd59e402f) | Naperville, IL | Software Engineer, University Graduates, 2023 |
 | [Amazon](https://www.amazon.jobs/en/jobs/2080728/software-development-engineer-2023-us) | US | [New Grad SDE](https://www.amazon.jobs/en/jobs/2080728/software-development-engineer-2023-us), [New Grad Frontend](https://www.amazon.jobs/en/jobs/2141834/front-end-engineer-2023-us) |
 | [~~Sunshine~~](https://jobs.lever.co/sunshine/a576f278-9748-49ab-b0b5-1104ef8880c4/apply) | Palo Alto, CA | SWE New Grad 2023 | 
-| [Jane Street](https://www.janestreet.com/join-jane-street/position/6214578002/) | NYC | Software Engineer, New Grad |
+| [~~Jane Street~~](https://www.janestreet.com/join-jane-street/position/6214578002/) | NYC | Software Engineer, New Grad |
 | [~~Raytheon Technologies~~](https://careers.rtx.com/global/en/job/01544342) | Sterling, VA | Software Engineer I, New Grad |
 | [~Cruise~](https://www.getcruise.com/careers/jobs/3851967/?department=University%20Opportunities%20%26%20Internships&search=software%20engineer) | San Francisco, CA | New Grad, Software Engineer, Developer Platform |
 | [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) | US | 2023 New Analyst Program |
